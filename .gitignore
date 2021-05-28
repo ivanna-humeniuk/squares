@@ -1,0 +1,15 @@
+.idea
+.idea/deployment.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/start-ru.iml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/workspace.xml___jb_old___
+.DS_Store
+*.DS_Store
+*node_modules
+node_modules/*
+.vscode
+package-lock.json

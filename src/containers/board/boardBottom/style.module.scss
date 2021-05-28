@@ -1,0 +1,30 @@
+.top {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.button {
+  display: inline-block;
+  box-sizing: content-box;
+  text-decoration: none;
+  min-width: 40px;
+  min-height: 30px;
+  height: auto;
+  font-size: 12px;
+  font-weight: bold;
+  position: relative;
+  outline: none;
+  padding: 0 20px;
+  margin: 0;
+  border: none;
+  cursor: pointer;
+  background-color: #0064ff;
+  border-radius: 7px;
+  line-height: 20px;
+  text-align: center;
+  color: #fff;
+  transition: background .5s;
+  text-transform: uppercase;
+  letter-spacing: normal;
+}
